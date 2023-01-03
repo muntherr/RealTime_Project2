@@ -1,0 +1,7 @@
+NUMBER_OF_ROLLING_GATE 2
+NUMBER_OF_PEOPLE 20
+ROLLING_GATE_CAPACITY_THRESHOLD 5
+max_impatient_people_number 5
+quitOnSatisfied 2
+quitOnUnsatisfied 2
+quitOnLeft 2
